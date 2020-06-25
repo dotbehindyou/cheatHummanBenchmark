@@ -1,6 +1,9 @@
 # cheatHummanBenchmark
 cheats for https://humanbenchmark.com/
 
+## how-to-run
+You have to copy-paste it in your console and let the fun happen
+
 ## License
 MIT License
 
